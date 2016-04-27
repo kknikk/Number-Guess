@@ -1,4 +1,4 @@
-# Number-Guess-Web-App
+# Number-Guess
 
 Web application using JSF &amp; JDBC. Asks user to guess a number between 1-10 and displays the last 25 guesses. 
 
